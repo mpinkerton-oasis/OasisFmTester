@@ -1,3 +1,4 @@
+oasislmf
 anytree
 hypothesis
 ipdb
@@ -12,4 +13,3 @@ pathlib
 pytest
 qgrid
 tabulate>=0.8.2
--e git+https://github.com/OasisLMF/OasisLMF.git@develop#egg=oasislmf
